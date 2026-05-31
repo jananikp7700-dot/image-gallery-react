@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/image-gallery-react/static/css/main.f85761de.css",
+    "main.js": "/image-gallery-react/static/js/main.2e9e830a.js",
+    "static/media/travel1.jpg": "/image-gallery-react/static/media/travel1.c39bda50cf02fb0d4a14.jpg",
+    "static/media/food2.jpg": "/image-gallery-react/static/media/food2.f2f32f8950fa5ebea1e8.jpg",
+    "static/media/Nature1.jpg": "/image-gallery-react/static/media/Nature1.546f18ed4eef11c96114.jpg",
+    "static/media/food3.jpg": "/image-gallery-react/static/media/food3.4be30703045c2ac81f0a.jpg",
+    "static/media/travel3.jpg": "/image-gallery-react/static/media/travel3.4c5cfaa40d2eafbc08b3.jpg",
+    "static/media/Nature2.jpg": "/image-gallery-react/static/media/Nature2.8e3f9e35a13e93d355e3.jpg",
+    "static/media/animal3.jpg": "/image-gallery-react/static/media/animal3.740ab6cd00403d0ca9bc.jpg",
+    "static/media/animal2.jpg": "/image-gallery-react/static/media/animal2.ff39eaa3fdac318ef02c.jpg",
+    "static/media/animal1.jpg": "/image-gallery-react/static/media/animal1.ff0ec12f81b9e8c27a6d.jpg",
+    "static/media/travel2.jpg": "/image-gallery-react/static/media/travel2.1766f2c81cfa1f52752d.jpg",
+    "static/media/food1.jpg": "/image-gallery-react/static/media/food1.fa16ca5e510d3cf9d6d1.jpg",
+    "static/media/Nature3.jpg": "/image-gallery-react/static/media/Nature3.8730f756e28078509f46.jpg",
+    "index.html": "/image-gallery-react/index.html",
+    "main.f85761de.css.map": "/image-gallery-react/static/css/main.f85761de.css.map",
+    "main.2e9e830a.js.map": "/image-gallery-react/static/js/main.2e9e830a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f85761de.css",
+    "static/js/main.2e9e830a.js"
+  ]
+}
